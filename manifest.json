@@ -1,8 +1,8 @@
 {
-  "name": "My First Extension",
+  "name": "Mute Yourself",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "The first extension that I made.",
+  "description": "Remove share facebook textarea",
   "permissions": [
     "*://*.facebook.com/"
    ],
